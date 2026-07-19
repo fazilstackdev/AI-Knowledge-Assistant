@@ -1,5 +1,3 @@
-باید تمام آین ها را در داخل یک فایل ارایه نماید تا من فقط یک بار   copy و past نمایم
-markdown
 # 🤖 AI Knowledge Assistant
 
 An intelligent document question-answering system built with **Django**, **Retrieval-Augmented Generation (RAG)**, **ChromaDB**, **Sentence Transformers**, and **Hugging Face Transformers**.
